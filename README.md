@@ -3,7 +3,8 @@ Datapacks | Addons for Tetra
 
 
 A small list of datapacks used for the mod Tetra by https://github.com/mickelus
-Tetra reposetory: https://github.com/mickelus/tetra
+
+Tetra repository: https://github.com/mickelus/tetra
 
 For infos on how i get the durability variables check the Excel-Worksheet
 https://1drv.ms/x/s!AqCzVePqBF0Ng0AMhQa3TypYk-6O?e=UZKhaU > PW: <Discordusername+#>

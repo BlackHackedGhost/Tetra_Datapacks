@@ -1,0 +1,228 @@
+Heyho there ヾ(°∇°*)
+BlackHackedGhost#0001 writing.
+
+_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_
+Spider be watching ¯\_ (oOOo) _/¯
+¯-¯-¯-¯-¯-¯-¯-¯-¯-¯-¯-¯-¯-¯-¯-¯-¯
+
+-_Shield-Grips Datapack Addon_-
+
+Short update what got edited:
+
+1.1b ---	08.06.2020	  --- [Fix]
+
+	- Fixed type of material not showing short name
+
+1.1a ---	30.05.2020	  --- [Basic Mod Support]
+
+Zip files are now included and ready for drag & drop use
+
+	-\Resource Pack\ShieldGrips_Resources\assets\tetra\lang\en_us.json
+	
+		< Variants added
+	
+			> Stick
+			> Spruce
+			> Birch
+			> Jungle
+			> Acacia
+			> Dark Oak
+			> Bone
+			> Blaze Rod
+			> End Rod
+			> Forged Beam
+			> Copper
+			> Tin
+			> Silver
+			> Nickel
+			> Lead
+			> Bronze
+			> Electrum
+			> Steel
+			> Maple
+			> Cherry
+			> Baobab
+			
+	-\Data Pack\ShieldGrips_Data\data\tetra\modules\shield\basic_grip.json
+	
+		<  Variants added
+		
+			> Stick
+			> Spruce
+			> Birch
+			> Jungle
+			> Acacia
+			> Dark Oak
+			> Bone
+			> Blaze Rod
+			> End Rod
+			> Forged Beam
+			> Copper
+			> Tin
+			> Silver
+			> Nickel
+			> Lead
+			> Bronze
+			> Electrum
+			> Steel
+			> Maple
+			> Cherry
+			> Baobab
+
+-- Notice
+	
+		\\\\	{Variables are a combined version between hilt + 5}
+		
+			<	Variables changed
+			
+				> Stick
+				 \
+				  Durability:		15	(Hilt + 5)
+				  Integrity:		1
+				  MagicCapacity:	20
+				
+				> Spruce
+				 \
+				  Durability:		22	(Hilt + 5)
+				  Integrity:		2
+				  MagicCapacity:	20
+				
+				> Birch
+				 \
+				  Durability:		28 (Hilt + 5)
+				  Integrity:		2
+				  MagicCapacity:	20
+				
+				> Jungle
+				 \
+				  Durability:		38	(Hilt + 5)
+				  Integrity:		2
+				  MagicCapacity:	20
+				
+				> Acacia
+				 \
+				  Durability:		22	(Hilt + 5)
+				  Integrity:		2
+				  MagicCapacity:	20
+				
+				> Dark Oak
+				 \
+				  Durability:		22	(Hilt + 5)
+				  Integrity:		2
+				  MagicCapacity:	20
+				
+				> Bone
+				 \
+				  Durability:		17	(Hilt + 5)
+				  Integrity:		2
+				  MagicCapacity:	20
+				
+				> Blaze Rod
+				 \
+				  Durability:		68	(Hilt + 5)
+				  Integrity:		6
+				  MagicCapacity:	20
+				
+				> End Rod
+				 \
+				  Durability:		93	(Hilt + 5)
+				  Integrity:		7
+				  MagicCapacity:	20
+				
+				> Forged Beam
+				 \
+				  Durability:		155	(Hilt + 5)
+				  Integrity:		7
+				  MagicCapacity:	20
+				
+				> Copper
+				 \
+				  Durability:		54	(Hilt + 5)
+				  Integrity:		3
+				  MagicCapacity:	20
+				  
+				> Tin
+				 \
+				  Durability:		26	(Hilt + 5)
+				  Integrity:		2
+				  MagicCapacity:	20
+				  
+				> Silver
+				 \
+				  Durability:		32	(Hilt + 5)
+				  Integrity:		3
+				  MagicCapacity:	20
+				  
+				> Nickel
+				 \
+				  Durability:		78	(Hilt + 5)
+				  Integrity:		5
+				  MagicCapacity:	20
+				  
+				> Lead
+				 \
+				  Durability:		28	(Hilt + 5)
+				  Integrity:		2
+				  MagicCapacity:	20
+				  
+				> Bronze
+				 \
+				  Durability:		98	(Hilt + 5)
+				  Integrity:		6
+				  MagicCapacity:	20
+				  
+				> Electrum
+				 \
+				  Durability:		26	(Hilt + 5)
+				  Integrity:		3
+				  MagicCapacity:	20
+				  
+				> Steel
+				 \
+				  Durability:		124	(Hilt + 5)
+				  Integrity:		6
+				  MagicCapacity:	20
+				  
+				> Maple
+				 \
+				  Durability:		28	(Hilt + 5)
+				  Integrity:		3
+				  MagicCapacity:	20
+				  
+				> Cherry
+				 \
+				  Durability:		32	(Hilt + 5)
+				  Integrity:		4
+				  MagicCapacity:	20
+				  
+				> Baobab
+				 \
+				  Durability:		38	(Hilt + 5)
+				  Integrity:		5
+				  MagicCapacity:	20
+	
+	-\Data Pack\ShieldGrips_Data\data\tetra\schemas\shield\basic_grip.json
+	
+		<  Variants added
+
+			> Stick
+			> Spruce
+			> Birch
+			> Jungle
+			> Acacia
+			> Dark Oak
+			> Bone
+			> Blaze Rod
+			> End Rod
+			> Forged Beam
+			> Copper
+			> Tin
+			> Silver
+			> Nickel
+			> Lead
+			> Bronze
+			> Electrum
+			> Steel
+			> Maple
+			> Cherry
+			> Baobab

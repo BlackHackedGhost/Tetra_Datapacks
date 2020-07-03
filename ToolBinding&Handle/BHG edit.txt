@@ -1,0 +1,153 @@
+Heyho there ヾ(°∇°*)
+BlackHackedGhost#0001 writing.
+
+_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_
+Spider be watching ¯\_ (oOOo) _/¯
+¯-¯-¯-¯-¯-¯-¯-¯-¯-¯-¯-¯-¯-¯-¯-¯-¯
+
+-_ToolBinding&Handle Datapack Addon_-
+
+
+- Values are left out until next update ;)
+
+Short update what got edited:
+
+1.1b ---	16.06.2020	  --- [Fixes, fixes, fixes...]
+
+just changed the "replace:true" to false 
+also removed tha base game stuff that is already in Tetra itself
+
+1.1a ---	11.06.2020	  --- [Basic Mod Support]
+
+Zip files are now included and ready for drag & drop use
+
+	-\Resource Pack\ToolBinding&Handle_Resources\assets\tetra\lang\en_us.json
+	
+		< Variants added [Handle]
+
+			> Gold
+			> Brass			
+			> Copper
+			> Tin
+			> Silver
+			> Nickel
+			> Lead
+			> Electrum
+			
+		< Variants added [Binding]
+		
+		-- Ingot Variants
+		
+			> Iron
+			> Gold
+			> Brass
+			> Copper
+			> Tin
+			> Silver
+			> Nickel
+			> Lead
+			> Bronze
+			> Electrum
+			> Steel
+			
+		-- Plate Variants
+			
+			> Iron
+			> Gold
+			> Brass
+			> Copper
+			> Silver
+			> Nickel
+			> Lead
+			> Electrum
+			> Steel
+			
+	-\Resource Pack\ToolBinding&Handle_Resources\assets\tetra\textures\items\module\double\binding\binding\
+	
+		-- Textures for Plates and Ingots Binding created
+			
+	-\Data Pack\ToolBinding&Handle_Data\data\tetra\modules\double\basic_handle.json
+	
+		<  Variants added
+		
+			> Gold
+			> Brass			
+			> Copper
+			> Tin
+			> Silver
+			> Nickel
+			> Lead
+			> Electrum
+			
+	-\Data Pack\ToolBinding&Handle_Data\data\tetra\modules\double\binding.json
+	
+		< Variants added
+		
+		-- Ingot Variants
+		
+			> Iron
+			> Gold
+			> Brass
+			> Copper
+			> Tin
+			> Silver
+			> Nickel
+			> Lead
+			> Bronze
+			> Electrum
+			> Steel
+			
+		-- Plate Variants
+			
+			> Iron
+			> Gold
+			> Brass
+			> Copper
+			> Silver
+			> Nickel
+			> Lead
+			> Electrum
+			> Steel
+
+	-\Data Pack\ToolBinding&Handle_Data\data\tetra\schemas\double\binding.json
+	
+		< Variants added
+		
+		-- Ingot Variants
+		
+			> Iron
+			> Gold
+			> Brass
+			> Copper
+			> Tin
+			> Silver
+			> Nickel
+			> Lead
+			> Bronze
+			> Electrum
+			> Steel
+			
+		-- Plate Variants
+			
+			> Iron
+			> Gold
+			> Brass
+			> Copper
+			> Silver
+			> Nickel
+			> Lead
+			> Electrum
+			> Steel
+			
+	-\Data Pack\ToolBinding&Handle_Data\data\tetra\schemas\double\basic_handle\basic_handle.json
+	
+		<  Variants added
+		
+			> Gold
+			> Brass			
+			> Copper
+			> Tin
+			> Silver
+			> Nickel
+			> Lead
+			> Electrum

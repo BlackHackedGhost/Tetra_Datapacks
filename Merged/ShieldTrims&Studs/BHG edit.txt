@@ -1,0 +1,331 @@
+Heyho there ヾ(°∇°*)
+BlackHackedGhost#0001 writing.
+
+_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_
+Spider be watching ¯\_ (oOOo) _/¯
+¯-¯-¯-¯-¯-¯-¯-¯-¯-¯-¯-¯-¯-¯-¯-¯-¯
+
+-_Trims&Studs Datapack Addon_-
+
+Short update what got edited:
+
+1.1b ---	16.06.2020	  --- [Fixes, fixes, fixes...]
+
+changed "replace:true to false"
+removed base content from Tetra
+
+1.1a ---	07.06.2020	  --- [Basic Mod Support]
+
+Zip files are now included and ready for drag & drop use
+
+	-\Resource Pack\Trims&Studs_Resources\assets\tetra\lang\en_us.json
+	
+		< Variants added [Trim {Tower/Heater/Buckler}]
+	
+			> Oak
+			> Spruce
+			> Birch
+			> Jungle
+			> Acacia
+			> Dark Oak
+			> Gold
+			> Copper
+			> Tin
+			> Silver
+			> Nickel
+			> Lead
+			> Bronze
+			> Electrum
+			> Steel
+			> Maple
+			> Cherry
+			> Baobab
+			
+		< Variants added [Studs {Tower/Heater/Buckler}]
+		
+			> Scrap Metal
+			> Copper
+			> Tin
+			> Silver
+			> Nickel
+			> Lead
+			> Bronze
+			> Electrum
+			> Steel
+
+	-\Data Pack\Trims&Studs_Data\data\tetra\improvements\shield\[buckler|heater|tower]\trim.json
+	
+		<  Variants added
+		
+			> Oak
+			> Spruce
+			> Birch
+			> Jungle
+			> Acacia
+			> Dark Oak
+			> Gold
+			> Copper
+			> Tin
+			> Silver
+			> Nickel
+			> Lead
+			> Bronze
+			> Electrum
+			> Steel
+			> Maple
+			> Cherry
+			> Baobab
+		
+			<	Variables changed
+			
+				> Oak | Spruce | Birch | Jungle | Dark Oak | Maple 
+				 \
+				  DurabilityMultiplier:		x1,04
+				  Integrity:				-1
+				  
+				> Acacia
+				 \
+				  DurabilityMultiplier:		x1,045
+				  Integrity:				-1
+				  
+				> Gold
+				 \
+				  DurabilityMultiplier:		x0,8
+				  Integrity:				-1
+				  
+				> Copper
+				 \
+				  DurabilityMultiplier:		x1,11
+				  Integrity:				-1
+				  
+				> Tin
+				 \
+				  DurabilityMultiplier:		x1,01
+				  Integrity:				-1
+				  
+				> Silver
+				 \
+				  DurabilityMultiplier:		x1,05
+				  Integrity:				-1
+				  
+				> Nickel
+				 \
+				  DurabilityMultiplier:		x1,18
+				  Integrity:				-1
+				  
+				> Lead
+				 \
+				  DurabilityMultiplier:		x1,02
+				  Integrity:				-1
+				  
+				> Bronze
+				 \
+				  DurabilityMultiplier:		x1,2
+				  Integrity:				-1
+				  
+				> Electrum | Baobab
+				 \
+				  DurabilityMultiplier:		x1,1
+				  Integrity:				-1
+				  
+				> Steel
+				 \
+				  DurabilityMultiplier:		x1,5
+				  Integrity:				-1
+				  
+				> Cherry
+				 \
+				  DurabilityMultiplier:		x1,08
+				  Integrity:				-1
+			
+	-\Data Pack\Trims&Studs_Data\data\tetra\improvements\shield\[buckler|heater|tower]\studs.json
+	
+		<  Variants added
+		
+			> Scrap Metal
+			> Copper
+			> Tin
+			> Silver
+			> Nickel
+			> Lead
+			> Bronze
+			> Electrum
+			> Steel
+		
+			<	Variables changed [Buckler]
+			
+				> Scrap Metal
+				 \
+				  Durability:		59
+				  Integrity:		-2
+				  
+				> Copper
+				 \
+				  Durability:		30
+				  Integrity:		-1
+				  
+				> Tin
+				 \
+				  Durability:		7
+				  Integrity:		-1
+				  
+				> Silver
+				 \
+				  Durability:		13
+				  Integrity:		-1
+				  
+				> Nickel
+				 \
+				  Durability:		45
+				  Integrity:		-2
+				  
+				> Lead
+				 \
+				  Durability:		5
+				  Integrity:		-1
+				  
+				> Bronze
+				 \
+				  Durability:		76
+				  Integrity:		-3
+				  
+				> Electrum
+				 \
+				  Durability:		20
+				  Integrity:		-2
+				  
+				> Steel
+				 \
+				  Durability:		106
+				  Integrity:		-4
+				  
+			<	Variables changed [Heater]
+			
+				> Scrap Metal
+				 \
+				  Durability:		62
+				  Integrity:		-2
+				  
+				> Copper
+				 \
+				  Durability:		33
+				  Integrity:		-1
+				  
+				> Tin
+				 \
+				  Durability:		10
+				  Integrity:		-1
+				  
+				> Silver
+				 \
+				  Durability:		18
+				  Integrity:		-1
+				  
+				> Nickel
+				 \
+				  Durability:		50
+				  Integrity:		-2
+				  
+				> Lead
+				 \
+				  Durability:		10
+				  Integrity:		-1
+				  
+				> Bronze
+				 \
+				  Durability:		81
+				  Integrity:		-3
+				  
+				> Electrum
+				 \
+				  Durability:		25
+				  Integrity:		-2
+				  
+				> Steel
+				 \
+				  Durability:		111
+				  Integrity:		-4
+				  
+			<	Variables changed [Tower]
+			
+				> Scrap Metal
+				 \
+				  Durability:		64
+				  Integrity:		-2
+				  
+				> Copper
+				 \
+				  Durability:		35
+				  Integrity:		-1
+				  
+				> Tin
+				 \
+				  Durability:		12
+				  Integrity:		-1
+				  
+				> Silver
+				 \
+				  Durability:		18
+				  Integrity:		-1
+				  
+				> Nickel
+				 \
+				  Durability:		50
+				  Integrity:		-2
+				  
+				> Lead
+				 \
+				  Durability:		10
+				  Integrity:		-1
+				  
+				> Bronze
+				 \
+				  Durability:		81
+				  Integrity:		-3
+				  
+				> Electrum
+				 \
+				  Durability:		25
+				  Integrity:		-2
+				  
+				> Steel
+				 \
+				  Durability:		111
+				  Integrity:		-4
+
+	-\Data Pack\Trims&Studs_Data\data\tetra\schemas\shield\trim.json
+	
+		<  Variants added
+		
+			> Oak
+			> Spruce
+			> Birch
+			> Jungle
+			> Acacia
+			> Dark Oak
+			> Gold
+			> Copper
+			> Tin
+			> Silver
+			> Nickel
+			> Lead
+			> Bronze
+			> Electrum
+			> Steel
+			> Maple
+			> Cherry
+			> Baobab
+	
+	-\Data Pack\Trims&Studs_Data\data\tetra\schemas\shield\studs.json
+	
+		<  Variants added
+
+			> Scrap Metal
+			> Copper
+			> Tin
+			> Silver
+			> Nickel
+			> Lead
+			> Bronze
+			> Electrum
+			> Steel

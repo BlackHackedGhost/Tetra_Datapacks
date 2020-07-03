@@ -1,0 +1,370 @@
+Heyho there ヾ(°∇°*)
+BlackHackedGhost#0001 writing.
+
+_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_
+Spider be watching ¯\_ (oOOo) _/¯
+¯-¯-¯-¯-¯-¯-¯-¯-¯-¯-¯-¯-¯-¯-¯-¯-¯
+
+-_Saber Datapack Addon_-
+
+Short update what got edited:
+
+1.1c ---	24.05.2020	  --- [Basic Mod Support & Texture Update & Rebalancing]
+
+Zip files are now included and ready for drag & drop use
+
+	-\Resource Pack\TetraKatana\assets\tetra\textures\items\module\sword\blade\saber
+
+		< Texture renamed
+		
+			> default  to  metal
+			
+		< Textures added
+		
+			> crude
+			> grainy
+			> shiny
+			> fierymetal	(not used yet)
+			> ironwood		(not used yet)
+
+	-\Data Pack\TetraKatana\data\tetra\modules\sword\saber.json
+	
+		< Texture fix
+			
+			(Short info: "default" texture was "metal")
+			
+			> Oak			[Before = default | After = crude]
+			> Spruce		[Before = default | After = crude]
+			> Birch			[Before = default | After = crude]
+			> Jungle		[Before = default | After = crude]
+			> Acacia		[Before = default | After = crude]
+			> Dark Oak		[Before = default | After = crude]
+			> Cobblestone	[Before = default | After = crude]
+			> Stone			[Before = default | After = metal]
+			> Granite		[Before = default | After = grainy]
+			> Diorite		[Before = default | After = grainy]
+			> Andesite		[Before = default | After = grainy]
+			> Flint			[Before = default | After = grainy]
+			> Iron			[Before = default | After = metal]
+			> Gold			[Before = default | After = shiny]
+			> Diamond		[Before = default | After = metal]
+			> Obsidian		[Before = default | After = grainy]
+			> Copper		[Before = default | After = metal]
+			> Tin			[Before = default | After = metal]
+			> Silver		[Before = default | After = shiny]
+			> Nickel		[Before = default | After = metal]
+			> Lead			[Before = default | After = metal]
+			> Bronze		[Before = default | After = metal]
+			> Electrum		[Before = default | After = shiny]
+			> Steel			[Before = default | After = metal]
+
+	-\Resource Pack\TetraKatana\assets\tetra\lang\en_us.json
+	
+		< Variants added
+	
+			> Oak
+			> Spruce
+			> Birch
+			> Jungle
+			> Acacia
+			> Dark Oak
+			> Cobblestone
+			> Stone
+			> Granite
+			> Diorite
+			> Andesite
+			> Flint
+			> Iron
+			> Gold
+			> Diamond
+			> Obsidian
+			> Copper
+			> Tin
+			> Silver
+			> Nickel
+			> Lead
+			> Bronze
+			> Electrum
+			> Steel
+			
+	-\Data Pack\TetraKatana\data\tetra\modules\sword\saber.json
+	
+		<  Variants added
+		
+			> Oak
+			> Spruce
+			> Birch
+			> Jungle
+			> Acacia
+			> Dark Oak
+			> Cobblestone
+			> Stone
+			> Granite
+			> Diorite
+			> Andesite
+			> Flint
+			> Iron
+			> Gold
+			> Diamond
+			> Obsidian	
+			> Copper
+			> Tin
+			> Silver
+			> Nickel
+			> Lead
+			> Bronze
+			> Electrum
+			> Steel
+
+-- Notice
+- All Variables are rounded up if u happen to wonder,
+- why they are lower if recalculated by yourself. ;)
+	
+		\\\\	{Variables are a mixed version between basic and heavy blade}
+		
+			<	Variables changed
+			
+				> Oak
+				 \
+				  Durability:		93	(1,85 * basic_blade)
+				  Integrity:		-2
+				  MagicCapacity:	90
+				  Damage:			3
+				  AttackSpeed:		-0.3
+				  Effects:			"sweeping": 4
+				
+				> Spruce
+				 \
+				  Durability:		93	(1,85 * basic_blade)
+				  Integrity:		-2
+				  MagicCapacity:	90
+				  Damage:			3
+				  AttackSpeed:		-0.2
+				  Effects:			"sweeping": 4
+				
+				> Birch
+				 \
+				  Durability:		133 (1,85 * basic_blade)
+				  Integrity:		-2
+				  MagicCapacity:	90
+				  Damage:			3
+				  AttackSpeed:		-0.3
+				  Effects:			"sweeping": 4
+				
+				> Jungle
+				 \
+				  Durability:		93	(1,85 * basic_blade)
+				  Integrity:		-2
+				  MagicCapacity:	102
+				  Damage:			3
+				  AttackSpeed:		-0.3
+				  Effects:			"sweeping": 4
+				
+				> Acacia
+				 \
+				  Durability:		133	(1,85 * basic_blade)
+				  Integrity:		-2
+				  MagicCapacity:	90
+				  Damage:			4
+				  AttackSpeed:		-0.3
+				  Effects:			"sweeping": 4
+				
+				> Dark Oak
+				 \
+				  Durability:		93	(1,85 * basic_blade)
+				  Integrity:		-2
+				  MagicCapacity:	102
+				  Damage:			3
+				  AttackSpeed:		-0.3
+				  Effects:			"sweeping": 4
+				
+				> Cobblestone
+				 \
+				  Durability:		189	(1,85 * basic_blade)
+				  Integrity:		-2
+				  MagicCapacity:	30
+				  Damage:			4
+				  AttackSpeed:		-0.3
+				  Effects:			"sweeping": 4
+				
+				> Stone
+				 \
+				  Durability:		333	(1,85 * basic_blade)
+				  Integrity:		-2
+				  MagicCapacity:	30
+				  Damage:			4
+				  AttackSpeed:		-0.3
+				  Effects:			"sweeping": 4
+				
+				> Granite
+				 \
+				  Durability:		444	(1,85 * basic_blade)
+				  Integrity:		-2
+				  MagicCapacity:	30
+				  Damage:			4
+				  AttackSpeed:		-0.3
+				  Effects:			"sweeping": 4
+				
+				> Diorite
+				 \
+				  Durability:		333	(1,85 * basic_blade)
+				  Integrity:		-2
+				  MagicCapacity:	42
+				  Damage:			4
+				  AttackSpeed:		-0.3
+				  Effects:			"sweeping": 4
+				
+				> Andesite
+				 \
+				  Durability:		370	(1,85 * basic_blade)
+				  Integrity:		-2
+				  MagicCapacity:	30
+				  Damage:			5
+				  AttackSpeed:		-0.3
+				  Effects:			"sweeping": 4
+				
+				> Flint
+				 \
+				  Durability:		189	(1,85 * basic_blade)
+				  Integrity:		-2
+				  MagicCapacity:	90
+				  Damage:			5
+				  AttackSpeed:		-0.3
+				  Effects:			"sweeping": 4
+				
+				> Iron
+				 \
+				  Durability:		409	(1,85 * basic_blade)
+				  Integrity:		-2
+				  MagicCapacity:	84
+				  Damage:			5
+				  AttackSpeed:		-0.3
+				  Effects:			"sweeping": 4
+				
+				> Gold
+				 \
+				  Durability:		28	(1,85 * basic_blade)
+				  Integrity:		-2
+				  MagicCapacity:	132
+				  Damage:			3
+				  AttackSpeed:		-0.3
+				  Effects:			"sweeping": 4
+				
+				> Diamond
+				 \
+				  Durability:		1865	(1/4 of basic_blade + basic_blade)
+				  Integrity:		-3
+				  MagicCapacity:	60
+				  Damage:			6
+				  AttackSpeed:		-0.3
+				  Effects:			"sweeping": 4
+				
+				> Obsidian
+				 \
+				  Durability:		2304	(17/20 diff. heavy_blade + basic_blade)
+				  Integrity:		-3
+				  MagicCapacity:	42
+				  Damage:			8
+				  AttackSpeed:		-0.4
+				  Effects:			"sweeping": 4
+				
+				> Copper
+				 \
+				  Durability:		274	(1,85 * basic_blade)
+				  Integrity:		-1
+				  MagicCapacity:	78
+				  Damage:			5
+				  AttackSpeed:		-0.3
+				  Effects:			"sweeping": 4
+				  
+				> Tin
+				 \
+				  Durability:		141	(basic_blade + 15)
+				  Integrity:		-1
+				  MagicCapacity:	72
+				  Damage:			4
+				  AttackSpeed:		-0.3
+				  Effects:			"sweeping": 4
+				  
+				> Silver
+				 \
+				  Durability:		101	(9/10 diff. heavy_blade + basic_blade)
+				  Integrity:		-2
+				  MagicCapacity:	126
+				  Damage:			4
+				  AttackSpeed:		-0.3
+				  Effects:			"sweeping": 4
+				  
+				> Nickel
+				 \
+				  Durability:		370	(1,85 * basic_blade)
+				  Integrity:		-2
+				  MagicCapacity:	72
+				  Damage:			6
+				  AttackSpeed:		-0.3
+				  Effects:			"sweeping": 4
+				  
+				> Lead
+				 \
+				  Durability:		200	(1,85 * basic_blade)
+				  Integrity:		-3
+				  MagicCapacity:	66
+				  Damage:			6
+				  AttackSpeed:		-0.4
+				  Effects:			"sweeping": 4
+				  
+				> Bronze
+				 \
+				  Durability:		592	(1,85 * basic_blade)
+				  Integrity:		-1
+				  MagicCapacity:	78
+				  Damage:			5
+				  AttackSpeed:		-0.3
+				  Effects:			"sweeping": 4
+				  
+				> Electrum
+				 \
+				  Durability:		98	(1,85 * basic_blade)
+				  Integrity:		-2
+				  MagicCapacity:	144
+				  Damage:			4
+				  AttackSpeed:		-0.3
+				  Effects:			"sweeping": 4
+				  
+				> Steel
+				 \
+				  Durability:		708	(1,85 * basic_blade)
+				  Integrity:		-2
+				  MagicCapacity:	66
+				  Damage:			6
+				  AttackSpeed:		-0.3
+				  Effects:			"sweeping": 4
+	
+	-\Data Pack\TetraKatana\data\tetra\schemas\sword\saber.json
+	
+		<  Variants added
+
+			> Oak
+			> Spruce
+			> Birch
+			> Jungle
+			> Acacia
+			> Dark Oak
+			> Cobblestone
+			> Stone
+			> Granite
+			> Diorite
+			> Andesite
+			> Flint
+			> Iron
+			> Gold
+			> Diamond
+			> Obsidian	
+			> Copper
+			> Tin
+			> Silver
+			> Nickel
+			> Lead
+			> Bronze
+			> Electrum
+			> Steel
